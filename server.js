@@ -5,7 +5,7 @@ var express = require("express");
 var app = express();
 
 //Set initial port for later use on Heroku
-var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 8081;
 
 //Set up express App to handle data parsing
 app.use(express.urlencoded({ extended: true }));
