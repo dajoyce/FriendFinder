@@ -5,7 +5,7 @@ In this homework assignment we had to build a compatibility-based "FriendFinder"
 
 ##Getting Started:
 
-1. Navigate to BLANKINSERTADDRESS HERE LATER
+1. Navigate to https://radiant-tundra-79162.herokuapp.com/
 2. Follow the link to the survery page.
 3. Fill in the about you section/upload your photo.
 4. Take the survery and hit the submit button at the buttom.
